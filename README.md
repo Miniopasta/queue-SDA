@@ -4,7 +4,11 @@ Think of it like a line of people waiting to buy tickets at a movie theater – 
 Here are some key operations associated with a queue:
 
 Enqueue: Adding an element to the end of the queue.
+
 Dequeue: Removing the element from the front of the queue.
+
 Front (or Peek): Viewing the front element without removing it.
+
 IsEmpty: Checking if the queue is empty.
+
 IsFull: Checking if the queue is full (in cases where a maximum size is defined).
